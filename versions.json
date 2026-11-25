@@ -1,0 +1,16 @@
+{
+ "app": "TopSpin2",
+ "versions": [
+  {
+   "version": "0.2.0",
+   "date": "2026-11-25T10:06:51.795Z",
+   "notes": {
+    "ru": "Первая версия с установщиком.\n• Установка в выбранную папку без прав администратора, ярлыки на рабочем столе и в меню «Пуск».\n• Обновления: программа сама проверяет подписанный список версий, скачивает новую версию и предлагает установить её. В «Настройках → Обновления» — все версии и откат к прошлой.\n• Английский интерфейс: «Настройки → Меню и вид → Язык · Language».\n• Сигналы на столах по журналу клиента Winamax: рамка «ваш ход», шторка на борд при олл-ине, позиции HUD с первой раздачи.",
+    "en": "First version with an installer.\n• Installs to a folder of your choice without admin rights, with desktop and Start menu shortcuts.\n• Updates: the program checks the signed version list, downloads a new version and offers to install it. Settings → Updates lists all versions and lets you roll back.\n• English interface: Settings → Menu and look → Язык · Language.\n• Table signals from the Winamax client log: “your turn” frame, board shade on an all-in, HUD positions from the first hand."
+   },
+   "url": "https://github.com/ust1222-tech/topspin2-releases/releases/download/v0.2.0/TopSpin2-Setup-0.2.0.exe",
+   "size": 110866117,
+   "sha256": "5d26ce744a9d5467299053a6d6d33e74beda8a0636b42e3e74ad2ab6910947fe"
+  }
+ ]
+}
