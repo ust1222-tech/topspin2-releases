@@ -2,6 +2,17 @@
  "app": "TopSpin2",
  "versions": [
   {
+   "version": "0.3.0",
+   "date": "2026-11-25T10:41:55.229Z",
+   "notes": {
+    "ru": "Поддержка проекта.\n• Личный ID компьютера в «Настройках → Поддержка проекта».\n• Донат через DonationAlerts с ID в сообщении — код приходит сам через пару минут. Код действует на одном компьютере и переносится на новый (до 3 раз).\n• Без кода при запуске показывается окно поддержки; «Продолжить» — через 10 секунд.",
+    "en": "Support the project.\n• Your computer's personal ID is in Settings → Support the project.\n• Donate via DonationAlerts with the ID in the message — the code arrives by itself in a couple of minutes. A code works on one computer and can be moved to a new one (up to 3 times).\n• Without a code, a support window appears at launch; Continue unlocks after 10 seconds."
+   },
+   "url": "https://github.com/ust1222-tech/topspin2-releases/releases/download/v0.3.0/TopSpin2-Setup-0.3.0.exe",
+   "size": 110852547,
+   "sha256": "3259f94a202413eeda9f7ce3d4ba4c0fa6c9bcfa8640d6627c6574f57a73525e"
+  },
+  {
    "version": "0.2.0",
    "date": "2026-11-25T10:06:51.795Z",
    "notes": {
